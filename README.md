@@ -1,3 +1,7 @@
+# High Level Functinoality
+
+This project allows you to upload PDF documents and engage in **context-based conversations** based on the content of the uploaded files.
+
 # First Time Setup
 
 ## Using Pipenv [Recommended]
